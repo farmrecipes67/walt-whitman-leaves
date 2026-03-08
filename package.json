@@ -1,0 +1,22 @@
+{
+  "name": "walt-whitman-leaves",
+  "version": "1.0.0",
+  "description": "An npm package inspired by Walt Whitman — generates expansive, free-verse celebrations of democracy, nature, and the human body.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "poetry",
+    "walt-whitman",
+    "free-verse",
+    "leaves-of-grass",
+    "literature"
+  ],
+  "author": "papersaurus <farmrecipes@ast.engineer>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmrecipes67/walt-whitman-leaves"
+  }
+}
